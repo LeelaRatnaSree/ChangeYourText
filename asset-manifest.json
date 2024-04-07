@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChangeYourText/static/css/main.8ef96448.css",
+    "main.js": "/ChangeYourText/static/js/main.fbf5e52c.js",
+    "static/js/787.719ec76d.chunk.js": "/ChangeYourText/static/js/787.719ec76d.chunk.js",
+    "index.html": "/ChangeYourText/index.html",
+    "main.8ef96448.css.map": "/ChangeYourText/static/css/main.8ef96448.css.map",
+    "main.fbf5e52c.js.map": "/ChangeYourText/static/js/main.fbf5e52c.js.map",
+    "787.719ec76d.chunk.js.map": "/ChangeYourText/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ef96448.css",
+    "static/js/main.fbf5e52c.js"
+  ]
+}
